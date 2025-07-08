@@ -1,0 +1,1 @@
+My mpv url protocol handler I use to open videos in mpv for my browser with [this  firefox extension](https://addons.mozilla.org/en-US/firefox/addon/iina-open-in-mpv/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search).
